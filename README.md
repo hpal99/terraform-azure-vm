@@ -51,8 +51,5 @@ After successful deployment, get the public IP:terraform output public_ip
 
 Open your browser and visit:http://<public-ip>
 
-📸 Screenshot
-
-
 🔁 Destroy the Resources
 terraform destroy
