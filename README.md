@@ -51,5 +51,7 @@ After successful deployment, get the public IP:terraform output public_ip
 
 Open your browser and visit:http://<public-ip>
 
+## SSH to VM : ssh -i ~/.ssh/id_rsa Username@<public-ip>
+
 🔁 Destroy the Resources
 terraform destroy
